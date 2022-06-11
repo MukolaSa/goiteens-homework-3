@@ -2,4 +2,4 @@ p{
     font-size: 24px;
 }
 a[href|="https ://www.youtube.com/"] {color: red;}
-aa[href|="https://validator.w3.org/"] {color: red;}
+a[href|="https://validator.w3.org/"] {color: red;}
